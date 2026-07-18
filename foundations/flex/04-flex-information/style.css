@@ -24,3 +24,34 @@ img {
   justify-content: center;
   background: #eee;
 }
+
+
+.body{
+  text-align: center;
+}
+
+.title{
+  display: flex;
+  justify-content: center;
+}
+
+.icons{
+  display: flex;
+}
+
+.fruits{
+  display: flex;
+  padding: 30px 10%;
+  justify-content: center;
+
+}
+
+.fruit{
+  margin: auto;
+  max-width: 200px;
+  text-align: center;
+}
+
+.text{
+  text-align: center
+}
